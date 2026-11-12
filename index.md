@@ -22,7 +22,7 @@ The category sample from the Manjaro Linux forum contains ten entries organized 
 | 39 | How do I install Davinci Resolve on Manjaro Linux? | 11 | 1038 |  | DaVinci Resolve | Manjaro Linux | Installation / updating / removal |
 | 81 | Burn bootable Windows 10 ISO image to USB stick with dd? | 11 | 2681 |  | Windows 10 | dd | Installation / updating / removal |
  
- ***TAB1 Third-Party Software category sample results ranked by number of replies, with named entities and problem states derived from subject lines.***
+ <sub>**TAB1 Third-Party Software category sample results ranked by number of replies, with named entities and problem states derived from subject lines.**<sub/>
 
 The table that organizes Manjaro Linux forum content by the amount of replies. Each row represents a forum topic, while the columns represent other data such as the sample number, topic title, number of replies, number of views, tags, named entities, and the relevant problem.
 
